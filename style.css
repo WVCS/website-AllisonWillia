@@ -1,3 +1,25 @@
-body {
+nav{
+  list-style-type: none;
+  font-size:20px;
+  background-color: #F3CFC6;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 30px;
+  color: #770737;
+  text-align: center;
+  
+}
 
+li {
+  display: inline;
+  padding: 25px;
+}
+li:hover{
+  background-color: #FFF5EE;
+}
+a{
+  text-decoration:none;
+  color: #770737
 }
